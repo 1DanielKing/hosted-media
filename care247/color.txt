@@ -1,9 +1,0 @@
-light yellow #E7C688
-darker red #741404
-middle red #C42E16
-slightly brighter red #C83334
-
-these are on the badge design 1/9/2026:
-light yellow #E7C688
-darker red #741404
-middle red #C42E16
